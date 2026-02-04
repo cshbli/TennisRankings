@@ -1,0 +1,785 @@
+1	
+Carlos Alcaraz
+22	13,650	+1600	19	500	-
+2	
+Jannik Sinner
+24	10,300	-1200	18	-	-
+3	
+1
+Novak Djokovic
+38	5,280	+500	19	-	-
+4	
+-1
+Alexander Zverev
+28	4,605	-500	24	-	-
+5	
+Lorenzo Musetti
+23	4,405	+300	23	-	-
+6	
+Alex de Minaur
+26	4,080	-	23	330	85
+7	
+2
+Taylor Fritz
+28	3,940	+100	23	-	-
+8	
+Felix Auger-Aliassime
+25	3,725	-265	26	-	-
+9	
+-2
+Ben Shelton
+23	3,600	-400	23	50	10
+10	
+Alexander Bublik
+28	3,235	+170	28	-	-
+11	
+1
+Daniil Medvedev
+29	3,060	+150	25	-	-
+12	
+1
+Casper Ruud
+27	2,945	+150	22	330	10
+13	
+-2
+Jack Draper
+24	2,790	-200	17	-	-
+14	
+1
+Andrey Rublev
+28	2,600	-	25	100	10
+15	
+-1
+Alejandro Davidovich Fokina
+26	2,535	-100	26	-	-
+16	
+1
+Jakub Mensik
+20	2,445	+100	23	50	30
+17	
+-1
+Holger Rune
+22	2,380	-200	20	50	10
+18	
+Karen Khachanov
+29	2,320	-	24	-	-
+19	
+2
+Francisco Cerundolo
+27	2,135	+100	24	-	-
+20	
+2
+Flavio Cobolli
+23	1,955	-	28	-	-
+21	
+-2
+Jiri Lehecka
+24	1,900	-190	23	50	10
+22	
+-2
+Tommy Paul
+28	1,850	-200	21	200	50
+23	
+2
+Luciano Darderi
+23	1,789	+190	34	-	-
+24	
+5
+Learner Tien
+20	1,710	+170	25	-	-
+25	
+-2
+Denis Shapovalov
+26	1,650	-	23	500	10
+26	
+1
+Cameron Norrie
+30	1,643	+90	27	50	10
+27	
+4
+Valentin Vacherot
+27	1,611	+92	23	-	-
+28	
+-4
+Tomas Machac
+25	1,610	-	21	100	-
+29	
+-3
+Tallon Griekspoor
+29	1,565	-	28	50	30
+30	
+4
+Frances Tiafoe
+28	1,550	+50	22	50	10
+31	
+-3
+Arthur Rinderknech
+30	1,542	-9	29	-	-
+32	
+-2
+Brandon Nakashima
+24	1,535	-	29	-	-
+33	
+2
+Stefanos Tsitsipas
+27	1,495	+40	22	100	50
+34	
+-2
+Joao Fonseca
+19	1,440	-70	20	-	-
+35	
+1
+Sebastian Baez
+25	1,430	+40	30	35	25
+36	
+1
+Corentin Moutet
+26	1,383	-	27	-	-
+37	
+2
+Jaume Munar
+28	1,375	+40	26	200	10
+38	
+-5
+Ugo Humbert
+27	1,320	-190	24	-	-
+39	
+2
+Gabriel Diallo
+24	1,175	-40	25	-	-
+40	
+3
+Zizou Bergs
+26	1,170	-	26	-	-
+41	
+-3
+Alex Michelsen
+21	1,160	-190	27	-	-
+42	
+Arthur Fils
+21	1,110	-100	17	50	-
+43	
+2
+Grigor Dimitrov
+34	1,105	-	18	-	-
+44	
+Daniel Altmaier
+27	1,083	-40	31	113	25
+45	
+1
+Nuno Borges
+28	1,070	-	30	-	-
+46	
+1
+Fabian Marozsan
+26	1,065	-	25	50	25
+47	
+1
+Jenson Brooksby
+25	1,042	-	22	-	-
+48	
+1
+Camilo Ugo Carabelli
+26	1,028	-	29	125	25
+49	
+3
+Alexandre Muller
+29	1,020	+40	31	-	-
+50	
+4
+Marton Fucsovics
+33	1,009	+42	20	-	-
+51	
+-1
+Alexei Popyrin
+26	1,000	-	27	-	-
+52	
+3
+Hubert Hurkacz
+28	965	-	20	200	10
+53	
+Sebastian Korda
+25	960	-15	25	-	-
+54	
+8
+Tomas Martin Etcheverry
+26	945	+50	33	-	-
+55	
+4
+Kamil Majchrzak
+30	928	+10	21	8	-
+56	
+2
+Valentin Royer
+24	920	-4	29	35	12
+57	
+4
+Giovanni Mpetshi Perricard
+22	905	-	28	-	-
+58	
+-1
+Matteo Berrettini
+29	895	-50	20	-	-
+59	
+-8
+Marcos Giron
+32	895	-90	29	-	-
+60	
+-20
+Lorenzo Sonego
+30	890	-350	28	-	-
+61	
+9
+Marin Cilic
+37	890	+100	21	-	-
+62	
+4
+Damir Dzumhur
+33	877	+40	32	-	-
+63	
+Reilly Opelka
+28	873	-	27	100	25
+64	
+4
+Francisco Comesana
+25	869	+40	25	-	-
+65	
+Matteo Arnaldi
+24	858	-	25	100	7
+66	
+-2
+Terence Atmane
+24	849	-13	25	-	-
+67	
+8
+Botic van de Zandschulp
+30	849	+90	25	-	-
+68	
+12
+Ethan Quinn
+21	820	+87	25	75	13
+69	
+-9
+Miomir Kecmanovic
+26	820	-90	30	-	-
+70	
+-1
+Adrian Mannarino
+37	810	-	24	-	-
+71	
+14
+Eliot Spizzirri
+24	781	+56	28	-	-
+72	
+Raphael Collignon
+24	777	+10	23	-	-
+73	
+6
+Alejandro Tabilo
+28	774	+37	29	-	-
+74	
+2
+Mattia Bellucci
+24	768	+10	25	225	10
+75	
+-1
+Mariano Navone
+24	760	-	30	-	-
+76	
+-9
+Arthur Cazaux
+23	755	-75	20	-	-
+77	
+-6
+Pedro Martinez
+28	728	-40	32	100	8
+78	
+6
+Filip Misolic
+24	728	+3	27	-	-
+79	
+4
+Quentin Halys
+29	725	-	31	-	-
+80	
+10
+Hamad Medjedovic
+22	717	+36	20	-	-
+81	
+Adam Walton
+26	712	-15	27	75	6
+82	
+7
+Emilio Nava
+24	710	+27	28	-	-
+83	
+-27
+Aleksandar Kovacevic
+27	709	-255	31	-	-
+84	
+2
+Jan-Lennard Struff
+35	706	-	30	-	-
+85	
+2
+Juan Manuel Cerundolo
+24	698	-2	27	16	12
+86	
+2
+James Duckworth
+34	694	-	28	13	10
+87	
+10
+Alexander Shevchenko
+25	690	+40	28	-	-
+88	
+-15
+Jesper de Jong
+25	673	-90	23	-	-
+89	
+2
+Roberto Bautista Agut
+37	670	-	24	-	-
+90	
+-13
+Jacob Fearnley
+24	668	-84	27	-	-
+91	
+-13
+Aleksandar Vukic
+29	656	-90	31	-	-
+92	
+-10
+Cristian Garin
+29	656	-70	21	-	-
+93	
+9
+Yannick Hanfmann
+34	653	+42	21	-	-
+94	
+-2
+Laslo Djere
+30	651	-8	25	-	-
+95	
+8
+Thiago Agustin Tirante
+24	647	+42	30	-	-
+96	
+-1
+Dalibor Svrcina
+23	643	-12	24	25	-
+97	
+4
+Vit Kopriva
+28	632	+6	28	-	-
+98	
+2
+Ignacio Buse
+21	623	-4	24	-	-
+99	
+-6
+Hugo Gaston
+25	616	-40	30	-	-
+100	
+-6
+Pablo Carreno Busta
+34	616	-40	24	75	13
+101	
+-2
+Carlos Taberner
+28	608	-22	25	-	-
+102	
+26
+Kyrian Jacquet
+24	589	+112	23	100	-
+103	
+11
+Rinky Hijikata
+24	584	+42	30	50	12
+104	
+42
+Adolfo Daniel Vallejo
+21	580	+152	30	-	-
+105	
+-9
+Alexander Blockx
+20	579	-74	27	16	7
+106	
+2
+Luca Nardi
+22	571	+10	24	-	-
+107	
+9
+Patrick Kypson
+26	552	+25	18	-	-
+108	
+4
+Shintaro Mochizuki
+22	551	+4	28	14	-
+109	
+34
+Zachary Svajda
+23	551	+120	18	-	-
+110	
+1
+Jordan Thompson
+31	548	-	22	-	-
+111	
+2
+Mackenzie McDonald
+30	547	+1	25	-	-
+112	
+-5
+Tomas Barrios Vera
+28	546	-19	29	-	-
+113	
+26
+Stan Wawrinka
+40	537	+100	24	-	-
+114	
+-16
+Tristan Schoolkate
+24	534	-107	30	-	-
+115	
+2
+David Goffin
+35	515	-10	23	-	-
+116	
+10
+Otto Virtanen
+24	513	+25	21	-	-
+117	
+24
+Francesco Maestrelli
+23	512	+76	27	-	-
+118	
+-14
+Roman Andres Burruchaga
+24	512	-92	27	-	-
+119	
+-1
+Christopher O'Connell
+31	511	-10	25	-	-
+120	
+-1
+Elmer Moller
+22	509	-8	26	-	-
+121	
+6
+Dino Prizmic
+20	507	+26	14	-	-
+122	
+Chun-Hsin Tseng
+24	504	+6	23	-	-
+123	
+2
+Dusan Lajovic
+35	503	+6	30	-	-
+124	
+26
+Rafael Jodar
+19	498	+80	17	-	-
+125	
+-1
+Jan Choinski
+29	498	-	26	-	-
+126	
+3
+Vilius Gaubas
+21	495	+26	29	12	7
+127	
+38
+Luca Van Assche
+21	493	+141	26	-	-
+128	
+-22
+Benjamin Bonzi
+29	492	-74	23	8	-
+129	
+-8
+Billy Harris
+31	491	-8	32	25	8
+130	
+-7
+Borna Coric
+29	488	-10	13	-	-
+131	
+-16
+Yoshihito Nishioka
+30	486	-42	25	100	-
+132	
+-23
+Brandon Holt
+27	478	-75	28	25	-
+133	
+2
+Nicolai Budkov Kjaer
+19	476	+30	28	-	-
+134	
+-4
+Marco Trungelliti
+36	472	+4	24	-	-
+135	
+-4
+Sebastian Ofner
+29	471	+8	20	-	-
+136	
+-4
+Coleman Wong
+21	466	+10	23	-	-
+137	
+-32
+Nikoloz Basilashvili
+33	464	-109	21	-	-
+138	
+71
+Chris Rodesch
+24	456	+175	23	-	-
+139	
+-19
+Yunchaokete Bu
+24	449	-50	26	-	-
+140	
+-7
+Nicolas Jarry
+30	441	-10	23	-	-
+141	
+3
+Sho Shimabukuro
+28	441	+11	22	-	-
+142	
+-8
+Moez Echargui
+33	434	-14	28	-	-
+143	
+-5
+Andrea Pellegrino
+28	431	-7	19	13	-
+144	
+24
+Yibing Wu
+26	427	+80	12	-	-
+145	
+6
+Jaime Faria
+22	425	+12	22	-	-
+146	
+-1
+Liam Draxl
+24	422	-7	23	-	-
+147	
+-11
+Lukas Klein
+27	420	-24	20	-	-
+148	
+26
+Michael Zheng
+22	414	+77	13	-	-
+149	
+-12
+Hugo Dellien
+32	403	-35	23	64	-
+150	
+5
+Titouan Droguet
+24	403	-1	24	-	-
+151	
+31
+Dane Sweeny
+24	397	+72	29	-	-
+152	
+34
+Arthur Fery
+23	396	+80	18	-	-
+153	
+3
+Giulio Zeppieri
+24	393	-9	23	-	-
+154	
+-5
+Martin Landaluce
+20	388	-32	25	-	-
+155	
+-15
+Francesco Passaro
+25	384	-52	26	16	8
+156	
+3
+Harold Mayot
+23	380	-	25	25	-
+157	
+1
+Henrique Rocha
+21	379	-15	28	22	-
+158	
+-5
+Mark Lajal
+22	378	-29	24	-	-
+159	
+16
+Elias Ymer
+29	376	+39	28	50	1
+160	
+17
+Martin Damm
+22	373	+40	23	-	-
+161	
+-13
+Colton Smith
+22	371	-53	19	-	-
+162	
+-2
+Guy Den Ouden
+23	371	-1	16	16	-
+163	
+-11
+Matteo Gigante
+24	367	-40	18	-	-
+164	
+-1
+Luka Mikrut
+21	361	-	24	2	-
+165	
+-55
+Gael Monfils
+39	360	-190	19	-	-
+166	
+-4
+Yosuke Watanuki
+27	356	-8	20	-	-
+167	
+33
+Daniil Glinka
+25	355	+58	27	-	-
+168	
+30
+Arthur Gea
+21	353	+53	29	16	3
+169	
+-12
+Pierre-Hugues Herbert
+34	351	-48	22	-	-
+170	
+-3
+Jurij Rodionov
+26	350	+2	28	-	-
+171	
+9
+Leandro Riedi
+24	348	+22	10	-	-
+172	
+-11
+Juan Pablo Ficovich
+29	347	-22	24	16	-
+173	
+24
+Jack Pinnington Jones
+22	344	+44	17	13	-
+174	
+-32
+Ugo Blanchet
+27	343	-92	25	-	-
+175	
+-28
+Roberto Carballes Baena
+32	343	-84	26	-	-
+176	
+-6
+Zsombor Piros
+26	341	-	15	-	-
+177	
+-8
+Nicolas Mejia
+25	341	-4	32	-	-
+178	
+13
+Stefano Travaglia
+34	340	+32	26	-	-
+179	
+15
+Jason Kubler
+32	339	+34	17	44	-
+180	
+10
+Alex Barrena
+23	337	+25	28	3	2
+181	
+-5
+Zdenek Kolar
+29	337	-	34	25	4
+182	
+-16
+Vitaliy Sachko
+28	336	-13	23	-	-
+183	
+-19
+Daniel Merida
+21	336	-17	24	-	-
+184	
+19
+Rei Sakamoto
+19	332	+40	24	-	-
+185	
+36
+Lloyd Harris
+28	331	+75	16	7	-
+186	
+-8
+Jay Clarke
+27	330	-	32	7	6
+187	
+-15
+Roman Safiullin
+28	328	-10	16	-	-
+188	
+-17
+Alex Bolt
+33	327	-12	17	-	-
+189	
+-10
+Hugo Grenier
+29	324	-3	29	8	6
+190	
+-7
+Timofey Skatov
+25	324	-	31	14	4
+191	
+-37
+Daniel Elahi Galan
+29	323	-82	21	-	-
+192	
+-5
+Jerome Kym
+22	315	-	16	8	-
+193	
+-5
+Daniel Evans
+35	314	-	20	-	-
+194	
+-9
+Bernard Tomic
+33	313	-4	33	-	-
+195	
+47
+Nishesh Basavareddy
+20	310	+80	21	-	-
+196	
+-12
+Justin Engel
+18	309	-14	31	-	-
+197	
+-5
+Federico Agustin Gomez
+29	306	-	21	-	-
+198	
+19
+Thiago Seyboth Wild
+25	305	+42	22	-	-
+199	
+-6
+August Holmgren
+27	303	-2	22	-	-
+200	
+6
+Alex Molcan
+28	302	+16	19	-	-
