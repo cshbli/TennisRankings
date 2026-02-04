@@ -1,0 +1,201 @@
+ATP_Rank,Player_Name,UTR_ID,UTR_Rating
+1,Carlos Alcaraz,3569175,16.32
+2,Jannik Sinner,247320,16.37
+3,Novak Djokovic,3568338,16.01
+4,Alexander Zverev,52294,15.86
+5,Lorenzo Musetti,1394186,15.74
+6,Alex de Minaur,4315334,15.95
+7,Taylor Fritz,60157,15.6
+8,Felix Auger-Aliassime,2630333,15.95
+9,Ben Shelton,4681258,15.67
+10,Alexander Bublik,55908,15.9
+11,Daniil Medvedev,3554581,15.76
+12,Casper Ruud,95161,15.5
+13,Jack Draper,439496,15.85
+14,Andrey Rublev,53840,15.35
+15,Alejandro Davidovich Fokina,176778,15.57
+16,Jakub Mensik,4207419,15.41
+17,Holger Rune,2004640,15.58
+18,Karen Khachanov,54351,15.55
+19,Francisco Cerundolo,286985,15.37
+20,Flavio Cobolli,274922,15.29
+21,Jiri Lehecka,273063,15.44
+22,Tommy Paul,50772,15.67
+23,Luciano Darderi,802583,15.14
+24,Learner Tien,2245344,15.56
+25,Denis Shapovalov,83218,15.28
+26,Cameron Norrie,198546,15.37
+27,Valentin Vacherot,167756,15.5
+28,Tomas Machac,182561,15.33
+29,Tallon Griekspoor,64318,15.14
+30,Frances Tiafoe,224678,15.23
+31,Arthur Rinderknech,56735,15.39
+32,Brandon Nakashima,405461,15.37
+33,Stefanos Tsitsipas,94283,15.36
+34,Joao Fonseca,3745319,15.39
+35,Sebastian Baez,238427,14.95
+36,Corentin Moutet,93116,15.54
+37,Jaume Munar,240231,15.38
+38,Ugo Humbert,77968,15.46
+39,Gabriel Diallo,215644,15.34
+40,Zizou Bergs,182461,15.16
+41,Alex Michelsen,168170,15.18
+42,Arthur Fils,281770,15.49
+43,Grigor Dimitrov,3469,15.51
+44,Daniel Altmaier,5003897,15.1
+45,Nuno Borges,1000132,15.24
+46,Fabian Marozsan,4200843,15.3
+47,Jenson Brooksby,2631909,15.27
+48,Camilo Ugo Carabelli,4264946,14.78
+49,Alexandre Muller,67499,15.09
+50,Marton Fucsovics,3775528,15.32
+51,Alexei Popyrin,95506,15.1
+52,Hubert Hurkacz,73237,15.48
+53,Sebastian Korda,96338,15.33
+54,Tomas Martin Etcheverry,191111,15.3
+55,Kamil Majchrzak,55849,15.4
+56,Valentin Royer,2132621,15.06
+57,Giovanni Mpetshi Perricard,4207391,15.07
+58,Matteo Berrettini,52886,15.4
+59,Marcos Giron,3875691,15.25
+60,Lorenzo Sonego,66480,15.29
+61,Marin Cilic,3871,15.37
+62,Damir Dzumhur,3654,14.76
+63,Reilly Opelka,196974,15.19
+64,Francisco Comesana,281050,15.16
+65,Matteo Arnaldi,276601,15.05
+66,Terence Atmane,2441576,14.62
+67,Botic van de Zandschulp,59419,15.2
+68,Ethan Quinn,3613925,15.08
+69,Miomir Kecmanovic,142094,15.09
+70,Adrian Mannarino,3701,15.21
+71,Eliot Spizzirri,85804,15.38
+72,Raphael Collignon,5004527,15.02
+73,Alejandro Tabilo,2525708,15.03
+74,Mattia Bellucci,273161,14.8
+75,Mariano Navone,319597,14.83
+76,Arthur Cazaux,271079,15.22
+77,Pedro Martinez,5003860,14.64
+78,Filip Misolic,2559142,14.53
+79,Quentin Halys,1374418,14.81
+80,Hamad Medjedovic,261285,15.2
+81,Adam Walton,3086941,14.74
+82,Emilio Nava,85301,14.92
+83,Aleksandar Kovacevic,919337,14.8
+84,Jan-Lennard Struff,207438,15.04
+85,Juan Manuel Cerundolo,251681,14.64
+86,James Duckworth,3516572,14.86
+87,Alexander Shevchenko,4205169,14.78
+88,Jesper de Jong,2729795,14.94
+89,Roberto Bautista Agut,3697417,15.25
+90,Jacob Fearnley,4447327,15.06
+91,Aleksandar Vukic,4828579,14.79
+92,Cristian Garin,53255,14.83
+93,Yannick Hanfmann,4225,15.29
+94,Laslo Djere,52337,14.9
+95,Thiago Tirante,1821157,14.60
+96,Dalibor Svrcina,2662227,14.73
+97,Vit Kopriva,2663070,14.84
+98,Ignacio Buse,3699993,14.58
+99,Hugo Gaston,167878,14.71
+100,Pablo Carreno Busta,217512,14.75
+101,Carlos Taberner,57433,14.44
+102,Kyrian Jacquet,273221,14.88
+103,Rinky Hijikata,5617011,14.93
+104,Adolfo Daniel Vallejo,3614367,14.83
+105,Alexander Blockx,5071123,15.05
+106,Luca Nardi,274831,14.61
+107,Patrick Kypson,76845,14.85
+108,Shintaro Mochizuki,248318,14.57
+109,Zach Svajda,4682958,15.22
+110,Jordan Thompson,2611704,14.98
+111,Mackenzie McDonald,151401,14.81
+112,Tomas Barrios Vera,124948,14.67
+113,Stan Wawrinka,200399,14.86
+114,Tristan Schoolkate,249413,14.57
+115,David Goffin,4372,14.86
+116,Otto Virtanen,2600323,14.86
+117,Francesco Maestrelli,276628,14.44
+118,Roman Andres Burruchaga,297958,14.75
+119,Christopher O'Connell,5003335,14.79
+120,Elmer Moller,4276506,14.28
+121,Dino Prizmic,278798,14.98
+122,Chun-Hsin Tseng,273950,14.32
+123,Dusan Lajovic,224142,14.49
+124,Rafael Jodar,3433767,15.06
+125,Jan Choinski,56114,14.61
+126,Vilius Gaubas,277106,14.48
+127,Luca Van Assche,279446,14.9
+128,Benjamin Bonzi,52848,14.99
+129,Billy Harris,2774814,14.27
+130,Borna Coric,52341,15.12
+131,Yoshihito Nishioka,204410,14.71
+132,Brandon Holt,3120209,14.43
+133,Nicolai Budkov Kjaer,1030077,14.56
+134,Marco Trungelliti,3745,14.49
+135,Sebastian Ofner,65365,14.85
+136,Coleman Wong,4677584,14.72
+137,Nikoloz Basilashvili,224134,14.5
+138,Chris Rodesch,271417,14.7
+139,Yunchaokete Bu,795419,14.88
+140,Nicolas Jarry,2601750,14.79
+141,Sho Shimabukuro,4917422,14.57
+142,Moez Echargui,378338,14.59
+143,Andrea Pellegrino,58915,14.4
+144,Yibing Wu,163432,15.24
+145,Jaime Faria,5069891,14.37
+146,Liam Draxl,4274839,14.28
+147,Lukas Klein,90634,14.51
+148,Michael Zheng,5004523,14.85
+149,Hugo Dellien,4584,14.23
+150,Titouan Droguet,4420041,14.57
+151,Dane Sweeny,1712668,14.67
+152,Arthur Fery,5562224,14.93
+153,Giulio Zeppieri,273160,14.6
+154,Martin Landaluce,4207422,14.44
+155,Francesco Passaro,273170,14.43
+156,Harold Mayot,274912,14.46
+157,Henrique Rocha,4615387,14.23
+158,Mark Lajal,139861,14.46
+159,Elias Ymer,54846,14.23
+160,Martin Damm,3495981,14.66
+161,Colton Smith,101980,14.31
+162,Guy Den Ouden,1162984,14.45
+163,Matteo Gigante,572784,14.54
+164,Luka Mikrut,278836,14.55
+165,Gael Monfils,3993,15.14
+166,Yosuke Watanuki,1978582,14.41
+167,Daniil Glinka,205123,14.56
+168,Arthur Gea,4352603,15.05
+169,Pierre-Hugues Herbert,207037,14.44
+170,Jurij Rodionov,93398,14.36
+171,Leandro Riedi,274974,14.78
+172,Juan Pablo Ficovich,3525012,14.14
+173,Jack Pinnington Jones,2780687,14.61
+174,Ugo Blanchet,167843,14.49
+175,Roberto Carballes Baena,218159,14.41
+176,Zsombor Piros,173321,14.93
+177,Nicolas Mejia,3170769,14.32
+178,Stefano Travaglia,4047,14.55
+179,Jason Kubler,4726,14.76
+180,Alex Barrena,853661,14.24
+181,Zdenek Kolar,87175,14.38
+182,Vitaliy Sachko,87903,14.15
+183,Daniel Merida,1867177,0.0
+184,Rei Sakamoto,3673640,14.45
+185,Lloyd Harris,203816,15.17
+186,Jay Clarke,1988251,14.15
+187,Roman Safiullin,60156,15.16
+188,Alex Bolt,4200056,14.54
+189,Hugo Grenier,95375,14.51
+190,Timofey Skatov,5004526,14.28
+191,Daniel Elahi Galan,205461,14.36
+192,Jerome Kym,275868,14.4
+193,Daniel Evans,4031,14.32
+194,Bernard Tomic,3724,14.42
+195,Nishesh Basavareddy,4215380,14.98
+196,Justin Engel,861194,14.25
+197,Federico Gomez,2850894,14.42
+198,Thiago Seyboth Wild,4211317,0.0
+199,August Holmgren,2542350,14.3
+200,Alex Molcan,57251,14.6
