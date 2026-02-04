@@ -1,0 +1,201 @@
+WTA_Rank,Player_Name,UTR_ID,UTR_Name,UTR_Rating
+1,Aryna Sabalenka,84281,Aryna Sabalenka,13.2
+2,Iga Swiatek,593241,Iga Swiatek,12.9
+3,Elena Rybakina,146056,Elena Rybakina,13.19
+4,Amanda Anisimova,83015,Amanda Anisimova,12.9
+5,Coco Gauff,4106479,Coco Gauff ,12.75
+6,Jessica Pegula,10307,Jessica Pegula,12.91
+7,Mirra Andreeva,3541173,Mirra Andreeva,12.7
+8,Jasmine Paolini,28990,Jasmine Paolini,12.68
+9,Belinda Bencic,219786,Belinda Bencic,12.49
+10,Elina Svitolina,11558,Elina Svitolina,12.82
+11,Ekaterina Alexandrova,11342,Ekaterina Alexandrova,12.76
+12,Linda Noskova,275631,Linda Noskova,12.56
+13,Victoria Mboko,3195053,Victoria Mboko,12.64
+14,Naomi Osaka,378488,Naomi Osaka,12.59
+15,Madison Keys,1607950,Madison Keys,12.56
+16,Clara Tauson,1284129,Clara Tauson,12.42
+17,Emma Navarro,2517427,Emma Navarro,12.31
+18,Liudmila Samsonova,71334,Liudmila Samsonova,12.36
+19,Karolina Muchova,3385741,Karolina Muchova,12.62
+20,Iva Jovic,4320683,Iva Jovic,12.51
+21,Diana Shnaider,279350,Diana Shnaider,12.45
+22,Elise Mertens,3054734,Elise Mertens,12.5
+23,Marta Kostyuk,238541,Marta Kostyuk,12.59
+24,Jelena Ostapenko,52346,Jelena Ostapenko,12.13
+25,Leylah Fernandez,170791,Leylah Fernandez,12.46
+26,Qinwen Zheng,3694412,Zheng Qinwen,12.67
+27,Anna Kalinskaya,84513,Anna Kalinskaya,12.57
+28,Sofia Kenin,70649,Sofia Kenin,11.92
+29,Maya Joint,5299411,Maya Joint,12.15
+30,Emma Raducanu,989589,Emma Raducanu,12.58
+31,Marketa Vondrousova,92088,Marketa Vondrousova,12.66
+32,Mccartney Kessler,251050,Mccartney Kessler,12.38
+33,Xinyu Wang,1739159,Yuan Xin Wang,12.26
+34,Lois Boisson,279597,Lois Boisson,12.38
+35,Jaqueline Cristian,55200,Jaqueline Adina Cristian,12.29
+36,Sorana Cirstea,10346,Sorana Cirstea,12.49
+37,Marie Bouzkova,2035498,Marie Bouzkova,12.49
+38,Veronika Kudermetova,45027,Veronika Kudermetova,12.39
+39,Magda Linette,10378,Magda Linette,12.13
+40,Katerina Siniakova,52345,Katerina Siniakova,12.48
+41,Ann Li,1393071,Ann Li,12.31
+42,Jessica Bouzas Maneiro,251674,Jessica Bouzas Maneiro,12.23
+43,Dayana Yastremska,161912,Dayana Yastremska,12.22
+44,Tereza Valentova,4264750,Tereza Valentova,12.51
+45,Alexandra Eala,1180881,Alexandra Eala,12.24
+46,Emiliana Arango,2688793,Emiliana Arango,11.89
+47,Janice Tjen,229187,Janice Tjen,12.3
+48,Laura Siegemund,5004517,Laura Siegemund,12.1
+49,Maria Sakkari,28487,Maria Sakkari,12.16
+50,Peyton Stearns,2588012,Peyton Stearns,12.14
+51,Elisabetta Cocciaretto,223098,Elisabetta Cocciaretto,12.19
+52,Barbora Krejcikova,28472,Barbora Krejcikova,12.39
+53,Elsa Jacquemot,273241,Elsa Jacquemot,11.91
+54,Tatjana Maria,2231281,Tatjana Maria,11.8
+55,Ashlyn Krueger,194176,Ashlyn Krueger,12.0
+56,Hailey Baptiste,1609434,Hailey Baptiste,12.03
+57,Cristina Bucsa,56746,Cristina Bucsa,12.3
+58,Anastasia Potapova,167901,Anastasia Potapova,12.13
+59,Eva Lys,208942,Eva Lys,12.4
+60,Magdalena Frech,2660013,Magdalena Frech,12.23
+61,Sonay Kartal,273297,Sonay Kartal,12.45
+62,Daria Kasatkina,364584,Daria Kasatkina,12.18
+63,Solana Sierra,387571,Solana Sierra,12.06
+64,Anna Bondar,2647771,Anna Bondar,11.99
+65,Paula Badosa,2114659,Paula Badosa,12.55
+66,Francesca Jones,141496,Francesca Jones,12.12
+67,Antonia Ruzic,276509,Antonia Ruzic,12.13
+68,Beatriz Haddad Maia,2118860,Beatriz Haddad Maia,12.1
+69,Petra Marcinko,286871,Petra Marcinko,12.06
+70,Yulia Putintseva,11035,Yulia Putintseva,12.15
+71,Caty Mcnally,77442,Caty Mcnally,12.3
+72,Elena Gabriela Ruse,64618,Elena Gabriela Ruse,12.18
+73,Varvara Gracheva,157972,Varvara Gracheva,12.09
+74,Ajla Tomljanovic,10383,Ajla Tomljanovic,12.27
+75,Anna Blinkova,85223,Anna Blinkova,11.89
+76,Oksana Selekhmeteva,2658853,Oksana Selekhmeteva,12.04
+77,Danielle Collins,11359,Danielle Collins,12.26
+78,Julia Grabher,2647770,Julia Grabher,11.85
+79,Zeynep Sonmez,243110,Zeynep Sonmez,12.12
+80,Camila Osorio,266014,Maria Camila Osorio Serrano,12.16
+81,Rebecca Sramkova,2706164,Rebecca Sramkova,11.86
+82,Shuai Zhang,10274,Shuai Zhang,12.09
+83,Ella Seidel,3694223,Ella Seidel,11.89
+84,Kimberly Birrell,4286162,Kim Birrell,12.06
+85,Alycia Parks,107920,Alycia Parks,11.92
+86,Lulu Sun,2031220,Lulu Sun,12.27
+87,Moyuka Uchijima,249399,Moyuka Uchijima,11.52
+88,Olga Danilovic,191038,Olga Danilovic,12.25
+89,Viktorija Golubic,2555959,Viktorija Golubic,12.0
+90,Dalma Galfi,55856,Dalma Galfi,12.19
+91,Oleksandra Oliynykova,2662508,Oleksandra Oliynykova,12.17
+92,Renata Zarazua,4343456,Renata Zarazua,12.04
+93,Kamilla Rakhimova,202397,Kamilla Rakhimova,12.08
+94,Simona Waltert,188514,Simona Waltert,12.05
+95,Donna Vekic,28145,Donna Vekic,12.06
+96,Katie Volynets,281134,Katie Volynets,12.06
+97,Kaja Juvan,2721940,Kaja Juvan,12.11
+98,Panna Udvardy,2579581,Panna Udvardy,11.76
+99,Darja Semenistaja,271436,Darja Semenistaja,11.87
+100,Anastasia Pavlyuchenkova,268261,Anastasia Pavlyuchenkova,12.13
+101,Sara Bejlek,4207399,Sara Bejlek,12.15
+102,Yuliia Starodubtseva,3072941,Yuliia Starodubtseva,11.94
+103,Veronika Erjavec,2721937,Veronika Erjavec,11.84
+104,Sinja Kraus,274869,Sinja Kraus,11.72
+105,Suzan Lamens,2644333,Suzan Lamens,11.87
+106,Mayar Sherif,3056225,Mayar Sherif,11.79
+107,Anastasia Zakharova,270800,Anastasia Zakharova,11.88
+108,Nikola Bartunkova,5069594,Nikola Bartunkova,12.02
+109,Aliaksandra Sasnovich,50083,Aliaksandra Sasnovich,12.28
+110,Lucia Bronzetti,94278,Lucia Bronzetti,11.56
+111,Taylor Townsend,3175143,Taylor Townsend,12.1
+112,Victoria Jimenez Kasintseva,4207403,Victòria Jimenez Kasintseva,11.86
+113,Maddison Inglis,4308968,Maddison Inglis,11.83
+114,Rebeka Masarova,141817,Rebeka Masarova,12.11
+115,Leolia Jeanjean,412844,Leolia Jeanjean,11.81
+116,Tiantsoa Sarah Rakotomanga Rajaonah,286849,Tiantsoa Sarah Rakotomanga Rajaonah,11.52
+117,Caroline Dolehide,51094,Caroline Dolehide,11.83
+118,Talia Gibson,2087724,Talia Gibson,11.91
+119,Diane Parry,3365640,Diane Parry,11.75
+120,Katie Boulter,11775,Katie Boulter,12.08
+121,Linda Fruhvirtova,2554535,Linda Fruhvirtova,11.76
+122,Joanna Garland,2056962,Joanna Garland,11.86
+123,Marina Stakusic,239654,Marina Stakusic,12.11
+124,Tamara Korpatsch,44970,Tamara Korpatsch,11.87
+125,Greet Minnen,191924,Greet Minnen,12.08
+126,Priscilla Hon,4309485,Priscilla Hon,11.98
+127,Ons Jabeur,259658,Ons Jabeur,12.05
+128,Lilli Tagger,945153,Lilli Tagger,12.07
+129,Lanlana Tararudee,768422,Lanlana Tararudee,11.97
+130,Yue Yuan,93201,Yue Yuan,12.11
+131,Linda Klimovicova,5008635,Linda Klimovicova,11.96
+132,Himeno Sakatsume,206885,Himeno Sakatsume,12.05
+133,Arantxa Rus,3075360,Arantxa Rus,11.61
+134,Kaitlin Quevedo,374288,Kaitlin   Quevedo  ,11.75
+135,Hanne Vandewinkel,279526,Hanne Vandewinkel,11.72
+136,Katarzyna Kawa,11366,Katarzyna Kawa,11.38
+137,Darja Vidmanova,5099102,Dasha Vidmanova,11.97
+138,Lola Radivojevic,4319045,Lola Radivojevic,11.98
+139,Polina Kudermetova,274798,Polina Kudermetova,11.86
+140,Lucrezia Stefanini,2763944,Lucrezia Stefanini,11.61
+141,Sofia Costoulas,1969458,Sofia Costoulas,11.7
+142,Jil Teichmann,59434,Jil Teichmann,11.76
+143,Viktoriya Tomova,42469,Viktoriya Tomova,11.88
+144,Daria Snigur,271394,Daria Snigur,11.99
+145,Leyre Romero Gormaz,277760,Leyre Romero Gormaz,11.54
+146,Maja Chwalinska,998581,Maja Chwalinska,12.03
+147,Irina Camelia Begu,10323,Irina-Camelia Begu,12.06
+148,Taylah Preston,379732,Taylah Preston,11.62
+149,Victoria Azarenka,10322,Victoria Azarenka,12.31
+150,Varvara Lepchenko,4006249,Varvara Lepchenko,11.54
+151,Dominika Salkova,493615,Dominika Salkova,11.79
+152,Lin Zhu,10839,Lin Zhu,11.97
+153,Tamara Zidansek,2602428,Tamara Zidansek,11.84
+154,Elvina Kalieva,107276,Elvina Kalieva,11.61
+155,Maria Timofeeva,5305448,Maria Timofeeva,11.88
+156,Maria Lourdes Carle,2257509,Maria Lourdes Carle,11.48
+157,Alina Korneeva,814671,Alina Korneeva,12.02
+158,Iryna Shymanovich,2853884,Iryna Shymanovich,11.49
+159,Despina Papamichail,2660011,Despina Papamichail,11.38
+160,Polina Iatcenko,1743690,Polina Iatcenko,11.86
+161,Whitney Osuigwe,2096652,Whitney Osuigwe,11.57
+162,Bianca Andreescu,398304,Bianca Andreescu,12.01
+163,Emerson Jones,3679433,Emerson Jones,11.83
+164,Alina Charaeva,261878,Alina Charaeva,11.52
+165,Jessika Ponchet,42381,Jessika Ponchet,11.67
+166,Nuria Brancaccio,208980,Nuria Brancaccio,11.79
+167,Anhelina Kalinina,53198,Anhelina Kalinina,12.09
+168,Aoi Ito,4163309,Aoi Ito,12.0
+169,Elina Avanesyan,2334746,Elina Avanesyan,11.46
+170,Ekaterine Gorgodze,4207838,Ekaterine Gorgodze,11.58
+171,Teodora Kostovic,4380558,Teodora Kostovic,11.7
+172,Anouk Koevermans,3257901,Anouk Koevermans,11.56
+173,Carol Young Suh Lee,5698453,Carol Young Suh Lee,11.81
+174,Elizabeth Mandlik,2608472,Elizabeth Mandlik,11.56
+175,Louisa Chirico,4262849,Louisa Chirico,11.46
+176,Guiomar Maristany Zuleta De Reales,230355,Guiomar Maristany Zuleta De Reales,11.63
+177,Astra Sharma,4072361,Astra Sharma,11.66
+178,Anastasia Gasanova,5600418,Anastasia Gasanova,11.73
+179,Anca Alexia Todoni,3115247,Anca Alexia Todoni,11.94
+180,Bernarda Pera,28900,Bernarda Pera,11.76
+181,Harriet Dart,45507,Harriet Dart,11.8
+182,Hanyu Guo,219811,Hanyu Guo,11.76
+183,Carole Monnet,2700807,Carole Monnet,11.63
+184,Olivia Gadecki,2690325,Olivia Gadecki,11.71
+185,Anastasija Sevastova,3054725,Anastasija Sevastova,11.51
+186,Anna Lena Friedsam,28150,Anna-Lena Friedsam,11.7
+187,Julia Riera,2802396,Julia Riera,11.68
+188,Yeon Woo Ku,4174992,Yeon Woo Ku,11.84
+189,Elena Pridankina,4207404,Elena Pridankina,11.56
+190,Gabriela Andrea Knutson,2889042,Gabriela Knutson,11.64
+191,Lisa Pigato,274865,Lisa Pigato,11.56
+192,Carson Branstine,2154440,Carson Branstine,11.81
+193,Mary Stoiana,215092,Mary Stoiana,11.8
+194,Lina Gjorcheska,34146,Lina Gjorcheska,11.63
+195,Ana Sofia Sanchez,2606228,Ana Sofia Sanchez,11.27
+196,Alice Rame,4173939,Alice Rame,11.45
+197,Ena Shibahara,47233,Ena Shibahara,11.82
+198,Cadence Brace,239646,Cadence Brace,11.65
+199,Viktoria Hruncakova,5004519,Viktoria Kuzmova,11.56
+200,Kayla Cross,2006461,Kayla Cross,11.53
